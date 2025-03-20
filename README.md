@@ -28,7 +28,7 @@
 
 ## 🔧 IDE/Editors
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcptok25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
 </div>
 
