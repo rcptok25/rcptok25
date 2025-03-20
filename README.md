@@ -34,7 +34,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcptok25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcptok25&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcptok25&layout=compact&langs_count=7&theme=radical"/> 
 </div>
 
 ## 📝 Blog Posts
@@ -44,7 +44,7 @@
 
 ## ⏱ Activity Graph
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rcptok25&theme=react-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcptok25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🎮 Free Time Activities
