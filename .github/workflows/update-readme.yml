@@ -14,18 +14,11 @@ jobs:
       - name: Depoyu Klonla
         uses: actions/checkout@v3
 
-      - name: GitHub Stats'leri Güncelle
-        uses: uses: anuraghazra/github-readme-stats@latest
-        with:
-          username: rcptok25
-          show_icons: true
-          theme: radical
-          include_all_commits: true
-          count_private: true
-          token: ${{ secrets.GH_PAT }}
-
-      - name: README Dosyasını Güncelle
+      - name: README Güncelle
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
+          curl -o README.md "https://github-readme-stats.vercel.app/api?username=rcptok25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
