@@ -1,7 +1,5 @@
 # 👋 Recep's GitHub Profile
-<div align="center">
-  <iframe src="https://recep-tok.com" width="100%" height="500px" style="border:1px solid #ccc; border-radius: 8px;"></iframe>
-</div>
+
 ## 📝 About Me
 - Email: rcptok25@gmail.com
 - Website: [recep-tok.com](http://recep-tok.com/)
